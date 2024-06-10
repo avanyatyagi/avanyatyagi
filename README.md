@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 Currently learning and improving my skills in various tech stacks.<br>💡 Open to collaborating on exciting projects and innovative ideas.<br>📫 Feel free to reach out to me via avanyatyagi01@gmail.com</p>
+<p align="left">🌱 Currently learning and improving my skills in various tech stacks.<br>💡 Open to collaborating on exciting projects and innovative ideas.<br>📫 Feel free to reach out to me via <a href="mailto:avanyatyagi01@gmail.com">avanyatyagi01@gmail.com</a></p>
 
 ###
 
